@@ -2,6 +2,8 @@
 - 👀 I’m interested in learning git
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on gcp projects
+- I can be reachable on gmail and phone
+- i am still learing on Git will keep goal to gain moderate knowledge ASAP
 - 📫 How to reach me ...
 - New line added twice
 
